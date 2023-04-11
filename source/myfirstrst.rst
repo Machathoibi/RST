@@ -22,3 +22,4 @@ Object Store
 ------------
 To use DS8000 transparent cloud tiering (TCT), you must create a z/OS DFSMS Cloud Network Connection Construct name (cloud name) in the ISMF cloud panel. A cloud name must be created on TS7700 before DS8000 configuration and zHost transactions for that cloud name. If the cloud name does not exist on TS7700, the DS8000 configuration process or host TCT transactions would fail.
 
+This is for checking commit.
